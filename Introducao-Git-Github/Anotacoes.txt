@@ -1,0 +1,14 @@
+Git  
+Controle de versão criado por Linus Torvalds e equipe 
+
+Github 
+armazena em nuvem os códigos.
+Git e Github são complementares
+
+Links uteis
+
+Github: https://github.com/  
+
+Git: https://git-scm.com/   
+
+Markdown https://www.markdownguide.org/basic-syntax/  
